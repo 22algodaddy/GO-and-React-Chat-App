@@ -1,0 +1,9 @@
+/* fonts.css */
+
+@font-face {
+    font-family: 'Dancing Script';
+    font-style:  'cursive';
+    src: url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap') format('woff2');
+    /* Add additional src declarations for other font formats if needed */
+  }
+  
